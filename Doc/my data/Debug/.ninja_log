@@ -1,0 +1,13 @@
+# ninja log v5
+47	292	6576989689507296	F:/faculty/semester 7/Embedded systems/labs/my data/Debug/Obj/main.o	abfb08995460a60d
+0	115	6576991314595378	F:/faculty/semester 7/Embedded systems/labs/my data/Debug/Obj/DIO.o	bcc844d5d46ffa0f
+117	187	6576991315376645	F:/faculty/semester 7/Embedded systems/labs/my data/Debug/Exe/mylabs.out	d1c440621feceecc
+142	663	6579363837283555	F:/faculty/semester 7/Embedded systems/labs/my data/Debug/Obj/main.o	247897ecef90ecfb
+1	671	6579363837377336	F:/faculty/semester 7/Embedded systems/labs/my data/Debug/Obj/DIO.o	51df2765c2be6912
+680	1175	6579363842565158	F:/faculty/semester 7/Embedded systems/labs/my data/Debug/Exe/mylabs.out	b44e3bd175db48ab
+3	85	6579364070365777	F:/faculty/semester 7/Embedded systems/labs/my data/Debug/Obj/main.o	247897ecef90ecfb
+88	129	6579364070772728	F:/faculty/semester 7/Embedded systems/labs/my data/Debug/Exe/mylabs.out	b44e3bd175db48ab
+6	96	6579376292181767	F:/faculty/semester 7/Embedded systems/labs/my data/Debug/Obj/main.o	247897ecef90ecfb
+3	106	6579376539285983	F:/faculty/semester 7/Embedded systems/labs/my data/Debug/Obj/main.o	247897ecef90ecfb
+1	120	6579376539579957	F:/faculty/semester 7/Embedded systems/labs/my data/Debug/Obj/DIO.o	51df2765c2be6912
+123	165	6579376540010274	F:/faculty/semester 7/Embedded systems/labs/my data/Debug/Exe/mylabs.out	b44e3bd175db48ab
